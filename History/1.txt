@@ -1,0 +1,7 @@
+"Despite the awful pun in the name, X is a serious contender in the CD mastering stakes."
+This line from the website itreviews.co.uk mentions a early 1990s piece of software (some of you may have seen it?) that takes it's name from the name of a famous Roman Emperor and is a pun on one of his most infamous stories. The emperor in question enjoyed notoriety in the kingdom and was largely despised by the Roman aristocracy, even though sources mention him being a favorite among the commoners of the kingdom.
+
+Identify the roman emperor who was a tutee of Seneca, and what was the infamous story that inspired the name of the utility software.
+
+X - Nero - Burning ROM
+Event - Nero burning Rome 
