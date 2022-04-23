@@ -1,0 +1,7 @@
+X is a rating system which is used to calculate the relative skill levels of players in zero sum games such as Chess, American Football, Basketball, DotA, PUBG, Scrabble etc. Initially invented as an improved chess-rating system over the previously used Harkness system, it is named after its creator Arpad X, a Hungarian-American physics professor.
+
+A player's X rating is represented by a number of which may change depending on the outcome of rated games played. After every game, the winning player takes points from the losing one. The difference between the ratings of the winner and loser determines the total number of points gained or lost after a game.
+
+Identify X.
+
+
