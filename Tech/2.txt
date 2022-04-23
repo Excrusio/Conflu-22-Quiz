@@ -1,9 +1,0 @@
-Named after prominent mathematician ____ _____ (X), the X number is a colloquial metric used to describe the collaborative distance between the mathematician X and another person, as measured by authorship of mathematical papers. The idea of the X number was originally created by the mathematician's friends as a tribute to his enormous output. Later it gained prominence as a tool to study how mathematicians cooperate to find answers to unsolved problems.
-Even outside the field of mathematics, prolific researchers tend to have low X numbers. For example, these are some Nobel Laureates and their X numbers:
-1. Einstein: 2
-2. John Nash: 3
-3. Richard Feynman: 3
-
-Even Angela Merkel has an X number of 5
-
-Id X
