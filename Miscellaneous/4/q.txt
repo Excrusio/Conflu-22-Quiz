@@ -1,6 +1,3 @@
 Shown next is an image of WW2 airplane which is laden with bullets which survived anti-aircraft bullets from the Nazis. After analysing the areas where most bullets were hit, the military wanted to reinforce the areas the most hit areas of these planes which returned. Contrary to this, Hungarian-born Jewish statistician Abraham Wald suggested that the areas which weren't hit with any bullets should be reinforced first. Identify the reason and the phenomenon it is known as.
 
 
-
-X - The areas red were where the RETURNED planes were hit. To protect the ones that didn't return, we need to reinforce the areas which weren't hit.
-Y - Survivorship Bias
