@@ -1,0 +1,7 @@
+Identify the author of this note and its significance. X was a countess and turned
+
+
+The note was a suggestion for data that would program the machine to calculate Bernoulli numbers.
+She was the first to recognise that Charles Babbage's Analytical Engine had applications beside pure calculations and published the first algorithm making her the first computer programmer.
+
+

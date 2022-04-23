@@ -1,0 +1,12 @@
+X is a rating system which is used to calculate the relative skill levels of players in zero sum games such as Chess, American Football, Basketball, DotA, PUBG, Scrabble etc. Initially invented as an improved chess-rating system over the previously used Harkness system, it is named after its creator Arpad X, a Hungarian-American physics professor.
+
+A player's X rating is represented by a number of which may change depending on the outcome of rated games played. After every game, the winning player takes points from the losing one. The difference between the ratings of the winner and loser determines the total number of points gained or lost after a game.
+
+Identify X.
+
+
+
+
+Elo is a system where rating is traded evenly between players (one player gains as much as another loses) that primarily selects for consistency. Attached to elo is a "flexibility constant" (not techincal terminology but the word I'm using for it) which was 32, back in earlier seasons. What that 32 represents is how much elo you can win or lose in a certain match. In a broader sense, it allows you to evaluate skill - if you're fighting someone who you would gain 31 elo for beating and drop 1 elo for losing, in theory if you fought 32 times, you would win once and lose 31 times. This provides the basis for elo - in order to continue to progress at high levels, you need to win incredibly consistently or else you're penalized heavily. That makes it extremely unforgiving, especially against hackers and issues like lag.
+
+MMR is a far more complex rating system that required a revamp of the queueing system to function. MMR selects for skill rather than consistency, and players no longer "trade" elo. People can gain more or less elo than the other player lost. This flexibility allows the system to account for occasional losses and mainly focuses on placing someone in an area where they'll win exactly 50% of their matches against equally ranked opponents
