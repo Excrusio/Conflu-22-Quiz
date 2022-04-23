@@ -1,0 +1,11 @@
+A well-loved Indian brand uses the following mentioned images of animals in one of their product lines. Each of the animal is native to the respective country from which an ingredient is sourced. 
+- Giraffe
+- Sloth
+- Elephant
+- Peacock
+- Lemur
+- Toucan
+- Llama
+- Andean Condor
+
+Identify the brand, product and ingredient.
